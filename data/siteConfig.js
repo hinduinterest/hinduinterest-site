@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Hindu Interest',
-  siteDescription: 'Hindu Interest website',
+  siteDescription: 'Reviving Hindu Rastra',
   authorName: 'Hindu Interest',
   twitterUsername: 'hinduinterest',
   authorAvatar: 'HinduInterestIcon.png', // file in content/images
@@ -23,10 +23,6 @@ module.exports = {
   headerLinksIcon: '', //  (leave empty to disable: '')
   headerLinks: [
     {
-      label: 'Blog',
-      url: '/',
-    },
-    {
       label: 'About',
       url: '/about',
     }
@@ -40,10 +36,6 @@ module.exports = {
     {
       sectionName: 'Explore',
       links: [
-        {
-          label: 'Blog',
-          url: '/',
-        },
         {
           label: 'About',
           url: '/about',
