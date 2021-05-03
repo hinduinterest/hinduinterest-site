@@ -58,14 +58,14 @@ const BioText = styled(Text)`
 
 const Bio = () => {
   const { authorAvatar, authorName, authorDescription } = useSiteMetadata()
-  const { fixed } = useSiteImages(authorAvatar)
+  const { fluid } = useSiteImages(authorAvatar)
 
   return (
     <BioWrapper>
       <figure className="author-image">
         <div
           alt={authorName}
-          style={{ backgroundImage: `url("${fixed.src}")` }}
+          style={{ backgroundImage: `url("${fluid.src}")` }}
           className="img"
         />
       </figure>

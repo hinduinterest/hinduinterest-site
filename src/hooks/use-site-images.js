@@ -33,7 +33,6 @@ const useSiteImages = imageName => {
   if (image === undefined) {
     throw new Error(`Unable to find image: ${imageName} (in content/images)`)
   }
-
   return image.node.childImageSharp
 }
 

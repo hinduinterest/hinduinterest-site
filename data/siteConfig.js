@@ -3,7 +3,7 @@ module.exports = {
   siteDescription: 'Hindu Interest website',
   authorName: 'Hindu Interest',
   twitterUsername: 'hinduinterest',
-  authorAvatar: 'HinduInterestIcon.jpeg', // file in content/images
+  authorAvatar: 'HinduInterestIcon.png', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
   `,
