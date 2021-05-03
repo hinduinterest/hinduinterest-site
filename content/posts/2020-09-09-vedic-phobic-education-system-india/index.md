@@ -74,3 +74,7 @@ The recent high court judgment against a major Ayurvedic drug maker was dis-hear
 > Without creating a level playing field for Hindu educators a Vedic Board is dead on arrival.
 
 ***On a side note***: The recent decision by the Assam government to stop discriminatory state funding of a certain kind of education institutions is lauded by many Hindus. But how does it serve the Hindu interests in any way pointed out above? They continue to retain the legitimacy of their institutions while Hindu’s institutions continue to remain illegitimate. I fail to understand how the decision of the Assam government is beneficial in any way for Hindus?
+
+***References***
+- [Constitution of India](https://www.india.gov.in/sites/upload_files/npi/files/coi_part_full.pdf)
+- Image credits: https://nithyanandatruth.org/nithyananda-gurukul/
