@@ -18,6 +18,7 @@ module.exports = {
   icon: 'content/images/HinduInterestIcon.png',
   postsPerPage: 20,
   disqusShortname: 'hinduinterest',
+  //disqusShortname: '',
   headerTitle: 'Hindu Interest',
   headerLinksIcon: '', //  (leave empty to disable: '')
   headerLinks: [
