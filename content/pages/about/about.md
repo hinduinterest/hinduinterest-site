@@ -1,7 +1,7 @@
 ---
 title: "About Hindu Interest"
 slug: about
-cover: ./gatsby-cover.png
+cover: ../images/HinduInterestCover.png
 disqus: false
 ---
 

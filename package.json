@@ -1,13 +1,8 @@
 {
-  "name": "gatsby-hinduinterest",
+  "name": "hinduinterest-site",
   "version": "0.0.0-development",
   "description": "A Gatsby theme/starter to build lightning-fast blog/websites",
   "keywords": [
-    "blog",
-    "gatsby",
-    "gatsby-plugin",
-    "gatsby-theme",
-    "starter"
   ],
   "homepage": "https://github.com/hinduinterest/hinduinterest-site",
   "bugs": {
