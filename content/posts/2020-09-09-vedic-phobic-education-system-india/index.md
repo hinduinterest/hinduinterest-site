@@ -32,7 +32,7 @@ Can Hindus create their own educational institutions in India? In theory Yes, bu
 
 This has created a non-level playing field between Hindu and non-Hindu educators.
 
-> The net-effect of Article 26 + Article 30 is the prevention of new investments into Hindu educational infrastructure.
+The net-effect of Article 26 + Article 30 is the prevention of new investments into Hindu educational infrastructure.
 
 Right to Education Act (RTE) passed in 2009 and subsequent expansion had dealt a death blow to the Hindu educator. The problems of this act are primarily 3 fold
 
@@ -58,8 +58,19 @@ While it is observed minority institutions are able to charge the necessary fee 
 
 The parents i.e. consumers have no choice but to send their kids to these institutions. The result is visible RTE has led to closure for over 100,000 schools in India almost all of them belonging to Hindus.
 
-While New Education Policy (NEP) 2020 does talk a great many things about Sanskrit, the purpose of education, Neurological requirement, Home-schooling. These ideas are not new to the western world. They have been around for a couple of decades at least. The “Vedic” in NEP is not the “Vedic” as Hindus understand.
+While New Education Policy (NEP) 2020 does talk a great many things about Sanskrit, the purpose of education, Neurological requirement, Home-schooling. These ideas are not new to the western world. They have been around for a couple of decades at least. The "Vedic" in NEP is not the "Vedic" as Hindus understand.
 
 > #### Can Hindu educators make a living teaching? 
 >
 >> #### No, not according to the Indian Constitution and Supreme Court.
+
+### There is a far more fundamental problem. Hindu education is not considered legitimate.
+#### Will a Vedic Board help? It probably would be another AYUSH. AYUSH has missed a great opportunity in mainstreaming Ayurveda and Siddha medicines. During the time of corona, there is far too much anecdotal evidence too easily accessible, about efficacy to ignore.
+
+The recent high court judgment against a major Ayurvedic drug maker was dis-heartening as the intent of the Judge was to stop the company at any cost not necessarily the enforcement of the law in good faith. What is the role of AYUSH in all of this? Is AYUSH subservient to some other system of medicine?
+
+### If and when a Vedic board gets formed would it be subservient to other boards? What prevents the Vedic board from going the way of AYUSH or even worse.
+
+> Without creating a level playing field for Hindu educators a Vedic Board is dead on arrival.
+
+***On a side note***: The recent decision by the Assam government to stop discriminatory state funding of a certain kind of education institutions is lauded by many Hindus. But how does it serve the Hindu interests in any way pointed out above? They continue to retain the legitimacy of their institutions while Hindu’s institutions continue to remain illegitimate. I fail to understand how the decision of the Assam government is beneficial in any way for Hindus?
