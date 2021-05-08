@@ -29,7 +29,7 @@ This evidence produced under torture was accepted by trial court as was instrume
 The question of evidence by torture was upheld in a 2-judge bench by both High Court of Chennai **Chandradevi (A-3) vs State Of Tamil Nadu on 12 December, 2002** and Supreme Court of India . ***Kamalanantha And Ors vs State Of Tamil Nadu on 5 April, 2005***. 
 
 ![](SC_torture_snippet.jpg)
-The courts reasoned that torture remove the fear psychosis and reveal the truth.
+> **The courts reasoned that torture remove the fear psychosis and reveal the truth.**
 
 In a 2 year study in the emergency ward of just one hospital in the town of Amritsar, Punjab identified 21 victims of custodial torture. Both men and women are the victims of torture.
 
