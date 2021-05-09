@@ -1,6 +1,6 @@
 ---
-title: "When Courts Upheld torture"
-slug: when-courts-upheld-torture
+title: "When Courts Upheld Torture Against Women"
+slug: when-courts-upheld-torture-against-women
 date: 2021-05-07
 language: en
 cover: ./cover.jpg
