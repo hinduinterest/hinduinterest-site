@@ -7,14 +7,14 @@ cover: ./cover.jpg
 imageShare: ./swami-with-shisya.jpg
 ---
 
-There is a popular misconception amongs both Hindus and non-Hindus that origin of the world Hindu is not from Hindus.
-As with most popular opinion on Hinduism it is just that - a misconception. Its a blindspot.
+There is a popular misconception that the origin of the word Hindu is not from Hindus.
+As with most popular opinions on Hinduism, it is just that - a misconception. It's a blindspot.
 
 > हीनं दूषयति इति हिन्दू
 >
 > Hīnaṁ Dushyati Iti Hindu
 >
->> One who renouced ignorance (delusion) and inferiority is called Hindu.
+>> One who renounced ignorance (delusion) and inferiority is called a Hindu.
 >
 >           - Shabd Kalpdrum
 
@@ -22,10 +22,10 @@ As with most popular opinion on Hinduism it is just that - a misconception. Its 
 >
 > Hīnaṁ ca dūṣyatyēva hindurityuccatē priyē
 >
->> O My dear! One who renounced ignorance, delusion and inferiority is called Hindu
+>> O My dear! One who renounced ignorance (delusion) and inferiority is called Hindu
 >>          - Meru Tantra (Shaiva Agama)
 
-The definition of the word `Hindu` is itself an inclusive identity and grand narrative for all seekers across all Space and Time and not limited to a geography.
+The definition of the word `Hindu` is an inclusive identity and grand narrative for all seekers across all Space and Time and not limited to geography.
 
 References:
 - ["Hindus Never Existed!" - Who called them "Hindus" in the First Place?](https://www.youtube.com/watch?v=Yu2PDFXuP10)
