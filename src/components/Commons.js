@@ -11,7 +11,7 @@ export const GlobalStyle = createGlobalStyle`
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Noto Sans", "Lato", sans-serif;
   color: var(--color-text);
   background-color: var(--color-siteBackground);
 }

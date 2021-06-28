@@ -13,7 +13,7 @@ const DarkModeButton = styled.button`
   font-weight: 700;
   margin: 10px 0;
   font-size: 16px;
-  font-family: 'Lato', sans-serif;
+  font-family: "Noto Sans", "Lato", sans-serif;
 `
 
 const DarkToggle = ({ isExpanded = false }) => {
