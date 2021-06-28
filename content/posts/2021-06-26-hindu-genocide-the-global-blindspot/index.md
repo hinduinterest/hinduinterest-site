@@ -12,7 +12,7 @@ Hinduism is rooted in the worship of primordial divinity as mother. Practicing H
 
 This continuous genocide goes back at least 1000 years. Hindus have been silenced and are unable to talk about their trauma. The healing process of their transgenerational trauma is yet to begin.
 
-![](SC_torture_snippet.jpg)
+![](cover.jpeg)
 
 Reconciliation is a process where perpetrators of crimes against humanity have acknowledged the wrongdoings. Reconciliation by the South African government in case of Apartheid involved:
 1. acknowledging wrong was done
