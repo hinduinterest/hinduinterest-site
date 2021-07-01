@@ -54,6 +54,7 @@ Most of the neighbour hood schools in India are family run (mom n pop) schools. 
 
 **Article 21(A) / RTE**: Destroys infrastructure of Hindu educators and institutions
 
+![](constitution_problems.jpg)
 While it is observed minority institutions are able to charge the necessary fee without any need to forego any seats. This coupled with grants minority institutions receives from various government agencies and overseas funding (including Christian and Islamic networks) has seen greater improvements in their infrastructure. Supreme Court in a 2-1 judgment upheld the constitutionality of RTE i.e. they agree to the view that it is ok to discriminate against Hindus and Hindu educators.
 
 The parents i.e. consumers have no choice but to send their kids to these institutions. The result is visible RTE has led to closure for over 100,000 schools in India almost all of them belonging to Hindus.
