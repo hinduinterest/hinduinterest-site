@@ -2,8 +2,7 @@
   "name": "hinduinterest-site",
   "version": "0.0.0-development",
   "description": "A Gatsby theme/starter to build lightning-fast blog/websites",
-  "keywords": [
-  ],
+  "keywords": [],
   "homepage": "https://github.com/hinduinterest/hinduinterest-site",
   "bugs": {
     "url": "https://github.com/hinduinterest/hinduinterest-site/issues"
@@ -35,6 +34,7 @@
     "disqus-react": "^1.0.11",
     "gatsby": "^3.4.0",
     "gatsby-plugin-compile-es6-packages": "^2.1.0",
+    "gatsby-plugin-google-gtag": "^3.10.0",
     "gatsby-plugin-image": "^1.4.0",
     "gatsby-plugin-manifest": "^3.4.0",
     "gatsby-plugin-mdx": "^2.4.0",
