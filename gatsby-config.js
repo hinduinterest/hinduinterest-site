@@ -91,6 +91,7 @@ module.exports = {
                 modules: ['gatsby-starter-morning-dew'],
             },
         },
+        /*
         {
             resolve: `gatsby-plugin-google-gtag`,
             options: {
@@ -102,5 +103,6 @@ module.exports = {
                 ],
             },
         },
+        */
     ],
 }
